@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiP3Demo", "GiP3Demo\GiP3Demo.csproj", "{BC0F7E35-83DB-462F-BF39-2A061A259401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC0F7E35-83DB-462F-BF39-2A061A259401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0F7E35-83DB-462F-BF39-2A061A259401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0F7E35-83DB-462F-BF39-2A061A259401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0F7E35-83DB-462F-BF39-2A061A259401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53CE3755-E9A1-4E53-B53A-6D655CDEED64}
+	EndGlobalSection
+EndGlobal
