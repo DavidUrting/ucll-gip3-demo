@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace GiP3Demo.ViewModels
+namespace GiP3Demo.ViewModels.Customer
 {
     public class CustomerViewModel
     {
